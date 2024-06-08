@@ -41,6 +41,7 @@ $RECYCLE.BIN/
 #-------------------------
 # These should never be under version control,
 # as it poses a security risk.
+.env
 .vagrant
 Vagrantfile
 
@@ -123,3 +124,10 @@ nb-configuration.xml
 /results/
 /phpunit*.xml
 /.phpunit.*.cache
+
+app/Config/Session.php
+app/Config/Cache.php
+app/Config/Database.php
+app/Config/Autoload.php
+app/Config/Constants.php
+app/Config/Cookie.php
