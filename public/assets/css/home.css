@@ -1,0 +1,398 @@
+.from-section-infromation {
+    width: 800px;
+    margin: 0px auto;
+    position: relative;
+
+    margin-top: 50px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+}
+
+.swiftcart-logo h1 {
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+.box.box-info img {
+    width: 176px;
+}
+
+.box.box-info {
+    border: none;
+}
+
+.btn-info {
+    background: #00a0a0;
+    padding: 10px 48px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.box {
+    box-shadow: none;
+}
+
+.box-header {
+    color: #444;
+    display: block;
+    position: relative;
+    padding-top: 5px;
+    padding-left: 0px;
+    padding-bottom: 35px;
+}
+
+.login-section h5 {
+    /* padding-left: 62px; */
+    margin-left: 32px;
+    margin-top: 14px;
+    color: #000;
+}
+
+.login-section {
+    display: inline-flex;
+}
+
+.img-section img {
+    height: 450px;
+    margin-right: -8px;
+    position: relative;
+    left: 4px;
+}
+
+.form .inputbox {
+    position: relative;
+    min-height: 88px;
+    margin-right: 50px;
+}
+
+.form .inputbox input {
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 3px;
+    font-size: 3rem;
+    color: #000;
+    margin-bottom: 5px;
+    padding-bottom: 15px;
+    border: none;
+    border: 1px solid #c3c3c3 !important;
+    outline: none;
+    background: transparent;
+}
+
+.form .inputbox textarea {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 3rem;
+    color: #000;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #000;
+    outline: none;
+    background: transparent;
+}
+
+.form .inputbox input:focus {
+    background-color: #fff !important;
+}
+
+.form .inputbox input:-internal-autofill-selected {
+    background-color: #fff !important;
+}
+
+input:-internal-autofill-previewed,
+input:-internal-autofill-selected,
+textarea:-internal-autofill-previewed,
+textarea:-internal-autofill-selected,
+select:-internal-autofill-previewed,
+select:-internal-autofill-selected {
+    background-color: rgb(255, 255, 255, 1) !important;
+    background: rgb(255, 255, 255, 1) !important;
+}
+
+.form .inputbox input:-webkit-autofill {
+    background-color: #fff !important;
+}
+
+.form .inputbox input {
+    background: #fff !important;
+}
+
+.form .inputbox label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 12px 0;
+    font-size: 1.2rem;
+    color: #000;
+    pointer-events: none;
+    transition: .2s;
+}
+
+.form .inputbox textarea:focus~label,
+.form .inputbox textarea:valid~label {
+    top: -35px;
+    left: 0;
+    color: #000;
+}
+
+.form .inputbox input {
+    width: 100%;
+    padding: 5px 0;
+    font-size: 3rem;
+    color: #000;
+    margin-bottom: 3px;
+    border: none;
+
+    outline: none;
+    background: transparent;
+    border: 1px solid;
+}
+
+.form .inputbox label {
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+/*.form .inputbox input {
+width:92%;
+}*/
+
+.form .inputbox input:focus~label,
+.form .inputbox input:valid~label {
+    top: -35px;
+    left: 0;
+    color: #333;
+    background: #fff;
+
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 12px;
+}
+
+.box-header .box-title {
+    margin-bottom: 0px;
+}
+
+.form .inputbox input {
+    font-size: 16px;
+    padding: 13px 0px;
+    padding-left: 20px;
+}
+
+.box-header>.fa,
+.box-header>.glyphicon,
+.box-header>.ion,
+.box-header .box-title {
+    font-size: 22px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.box-header.with-border {
+    border: none;
+}
+
+body.skin-blue.sidebar-mini {
+    /*background: #fff;background-image: url("https://i.ibb.co/dphXb0v/bg-crm.jpg");*/
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.row.from-section {
+    background: rgba(255, 255, 255, 0.96);
+    border-radius: 7px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .13);
+}
+
+.box.box-info {
+    margin-top: 15px;
+    padding-left: 40px;
+}
+
+span.error {
+    display: block;
+    color: #f00;
+    font-size: 12px;
+}
+
+.form .inputbox input:label {
+    color: #000;
+    top: -20px;
+}
+
+.form {
+    padding-left: 42px;
+}
+
+.login-section {
+    margin-bottom: 15px;
+}
+
+.img-section img {
+    /*height: 481px;
+width: 264px;*/
+}
+
+.form .inputbox input {
+    color: #333;
+}
+
+.form .inputbox label {
+    color: #887c7c;
+    margin-left: 0px;
+}
+
+.box-header.with-border h5 {
+    margin-top: 2px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.mainbottomarea {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 120px;
+}
+
+.checkbox,
+.radio {
+    position: relative;
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+.btn-info:hover {
+    color: #fff;
+    background-color: #00a0a0;
+    border-color: #00a0a0;
+}
+
+.inputbox i.fa.fa-envelope {
+    font-size: 16px;
+    color: #dcdcdc;
+    position: absolute;
+    right: 25px;
+    padding-left: 17px;
+    padding-top: 17px;
+}
+
+.inputbox i:focus {
+    color: #00a0a0;
+}
+
+.inputbox i.fa.fa-unlock-alt {
+    font-size: 16px;
+    color: #dcdcdc;
+    right: 25px;
+    position: absolute;
+    padding-left: 17px;
+    padding-top: 17px;
+}
+
+div#scrollingDiv img {
+    width: 70PX;
+    height: 70px;
+    margin-top: 26px;
+}
+
+.terms_car {
+    display: inline-block;
+    position: absolute;
+    z-index: 2;
+    left: 22px;
+    overflow: hidden;
+}
+
+.road-section {
+    background: #565d78;
+    width: 100%;
+    height: 32px;
+    margin-top: 230px;
+}
+
+.swiftcart-logo {
+    margin-top: 0px;
+}
+
+.terms_car {
+    animation-name: example;
+    animation-duration: 140s;
+    animation-iteration-count: 5;
+}
+
+.road-sections img {
+    margin-top: 0px;
+    width: 100%;
+}
+
+.road {
+    height: 50px;
+    background: #7b7474;
+    float: left;
+    position: absolute;
+    left: -15px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.road-line {
+    border-top: 2px dashed #FFF;
+    height: 30px;
+    margin-top: 26px;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes road-line {
+    0% {
+        transform: translate(-10px);
+    }
+
+    100% {
+        transform: translateX(-70px)
+    }
+}
+
+body {
+    height: 760px;
+    background: url(assets/ht_layout/images/gif_bg.gif);
+    background-size: contain;
+    overflow: hidden;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.box-title1 {
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-size: 24px;
+    width: 90%;
+    padding-bottom: 20px;
+    font-weight: 600;
+    border-bottom: 1px solid #eaeaea;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+}
+
+.box-title1:after {
+    content: "";
+    position: absolute;
+    border-bottom: 4px solid #00a0a0;
+    height: 5px;
+    width: 70px;
+    left: 0;
+    top: 41px;
+}
